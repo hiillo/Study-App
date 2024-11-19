@@ -8,7 +8,7 @@ int main(int argc, char *argv[])
     QApplication a(argc, argv);
 
     QFont font("Courier");  //built in fonts
-    QIcon icon(":res/affine/bg1.jpg"); // little emoji to the button
+    QIcon icon(":/Images/FBK_hi.png"); // little emoji to the button
     // QIcon Qicon::fromTheme ( const QString &name, const QIcon &fallback = QIcon());
     // button.setIcon(QIcon::fromTheme("face-smile"));
 

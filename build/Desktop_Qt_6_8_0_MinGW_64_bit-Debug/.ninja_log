@@ -1,9 +1,19 @@
 # ninja log v6
-6	838	7537010541290051	StudyApp_autogen/timestamp	e2b3d9047a1e7d55
-3043	3273	7537010564621611	StudyApp.exe	f0b2f34564a85476
-6	838	7537010541290051	StudyApp_autogen/mocs_compilation.cpp	e2b3d9047a1e7d55
-856	3012	7537010542763610	CMakeFiles/StudyApp.dir/mainwindow.cpp.obj	fb869d8500e89d30
-847	3043	7537010542673495	CMakeFiles/StudyApp.dir/main.cpp.obj	75f68b6db3ac1bfc
-6	838	7537010541290051	C:/Users/Hillo/Downloads/Programing/StudyApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/StudyApp_autogen/timestamp	e2b3d9047a1e7d55
-6	838	7537010541290051	C:/Users/Hillo/Downloads/Programing/StudyApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/StudyApp_autogen/mocs_compilation.cpp	e2b3d9047a1e7d55
+37	255	7537019650356241	StudyApp_autogen/timestamp	e2b3d9047a1e7d55
+2138	2315	7537019671368204	StudyApp.exe	f0b2f34564a85476
+37	255	7537019650356241	StudyApp_autogen/mocs_compilation.cpp	e2b3d9047a1e7d55
+260	2138	7537019652586285	CMakeFiles/StudyApp.dir/mainwindow.cpp.obj	fb869d8500e89d30
+256	2128	7537019652546218	CMakeFiles/StudyApp.dir/main.cpp.obj	75f68b6db3ac1bfc
+37	255	7537019650356241	C:/Users/Hillo/Downloads/Programing/StudyApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/StudyApp_autogen/timestamp	e2b3d9047a1e7d55
+37	255	7537019650356241	C:/Users/Hillo/Downloads/Programing/StudyApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/StudyApp_autogen/mocs_compilation.cpp	e2b3d9047a1e7d55
 843	2941	7537010542633478	CMakeFiles/StudyApp.dir/StudyApp_autogen/mocs_compilation.cpp.obj	bbf0384a6de1e8a8
+40	281	7537031551794679	StudyApp_autogen/timestamp	e2b3d9047a1e7d55
+40	281	7537031551794679	StudyApp_autogen/mocs_compilation.cpp	e2b3d9047a1e7d55
+40	281	7537031551794679	C:/Users/Hillo/Downloads/Programing/StudyApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/StudyApp_autogen/timestamp	e2b3d9047a1e7d55
+40	281	7537031551794679	C:/Users/Hillo/Downloads/Programing/StudyApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/StudyApp_autogen/mocs_compilation.cpp	e2b3d9047a1e7d55
+283	384	7537031555131046	StudyApp_autogen/EWIEGA46WW/qrc_Resource.cpp	430a8632454b9a79
+283	384	7537031555131046	C:/Users/Hillo/Downloads/Programing/StudyApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/StudyApp_autogen/EWIEGA46WW/qrc_Resource.cpp	430a8632454b9a79
+394	592	7537031555339072	CMakeFiles/StudyApp.dir/StudyApp_autogen/EWIEGA46WW/qrc_Resource.cpp.obj	ea35554c7e224bb4
+384	2589	7537031555237586	CMakeFiles/StudyApp.dir/main.cpp.obj	75f68b6db3ac1bfc
+389	2670	7537031555288637	CMakeFiles/StudyApp.dir/mainwindow.cpp.obj	fb869d8500e89d30
+2670	2868	7537031578094792	StudyApp.exe	517b47945bd03c25

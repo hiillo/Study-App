@@ -15,4 +15,10 @@ Problems
 \
 Notes
 ---
-<img src="FBK_hi.png" alt="drawing" width="200"/>
+to add images to the project 
+1. create a file/folder under the option of qt resource file.
+2. double click to add prefix, this is the folder path.
+3. add existing files
+4. double click image file and copy as path. 
+___
+<img src="/images/FBK_hi.png" alt="drawing" width="100"/>

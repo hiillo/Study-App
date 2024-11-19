@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-257b1a10da211d28dc66.json",
+					"jsonFile" : "directory-.-Debug-4c9f4b4ddc0dbc7c4d2a.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "StudyApp::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-StudyApp-Debug-d319a88e9cb742ab6795.json",
+					"jsonFile" : "target-StudyApp-Debug-8631c0a0ad53aeb02f26.json",
 					"name" : "StudyApp",
 					"projectIndex" : 0
 				},
