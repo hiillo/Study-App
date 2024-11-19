@@ -20,5 +20,6 @@ to add images to the project
 2. double click to add prefix, this is the folder path.
 3. add existing files
 4. double click image file and copy as path. 
-___
+
+\
 <img src="/Images/FBK_hi.png" alt="drawing" width="100"/>
