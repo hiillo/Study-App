@@ -15,5 +15,4 @@ Problems
 \
 Notes
 ---
-
-![a](/FBK_hi.png)
+<img src="FBK_hi.png" alt="drawing" width="200"/>
