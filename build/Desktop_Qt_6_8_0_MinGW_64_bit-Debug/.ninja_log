@@ -1,0 +1,9 @@
+# ninja log v6
+6	838	7537010541290051	StudyApp_autogen/timestamp	e2b3d9047a1e7d55
+3043	3273	7537010564621611	StudyApp.exe	f0b2f34564a85476
+6	838	7537010541290051	StudyApp_autogen/mocs_compilation.cpp	e2b3d9047a1e7d55
+856	3012	7537010542763610	CMakeFiles/StudyApp.dir/mainwindow.cpp.obj	fb869d8500e89d30
+847	3043	7537010542673495	CMakeFiles/StudyApp.dir/main.cpp.obj	75f68b6db3ac1bfc
+6	838	7537010541290051	C:/Users/Hillo/Downloads/Programing/StudyApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/StudyApp_autogen/timestamp	e2b3d9047a1e7d55
+6	838	7537010541290051	C:/Users/Hillo/Downloads/Programing/StudyApp/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/StudyApp_autogen/mocs_compilation.cpp	e2b3d9047a1e7d55
+843	2941	7537010542633478	CMakeFiles/StudyApp.dir/StudyApp_autogen/mocs_compilation.cpp.obj	bbf0384a6de1e8a8

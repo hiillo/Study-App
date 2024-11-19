@@ -16,4 +16,4 @@ Problems
 Notes
 ---
 
-![a](:res/StudyApp/FBK_hi.png)
+![a](/FBK_hi.png)
