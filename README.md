@@ -21,4 +21,4 @@ to add images to the project
 3. add existing files
 4. double click image file and copy as path. 
 ___
-<img src="/images/FBK_hi.png" alt="drawing" width="100"/>
+<img src="/Images/FBK_hi.png" alt="drawing" width="100"/>
